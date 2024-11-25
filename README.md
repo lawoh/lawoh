@@ -3,7 +3,6 @@
 
 ### 👨‍💻 About Me
 - 🗺️ Passionate about GIS Development & Spatial Data Analysis
-- 🛠️ Working with QGIS, ArcGIS, PostGIS, Python
 - 🌐 Creating innovative geospatial solutions
 - ✈️ Travel enthusiast exploring new horizons
 - 🤝 Love discovering new cultures and meeting people
