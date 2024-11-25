@@ -11,10 +11,10 @@
 
 ### 🔭 What I Do
 - Spatial data analysis and visualization
-- Remote sensing applications
 - GIS web application development
 - Custom mapping solutions
 - Geospatial data management
+-  Remote sensing applications
 
 ### 🌱 Always Learning
 - New geospatial technologies
